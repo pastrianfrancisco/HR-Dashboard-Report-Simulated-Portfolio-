@@ -40,7 +40,7 @@ I'm an entry-level BI analyst passionate about turning raw data into meaningful 
 
 | # | Project | Description | Tools | Status |
 |---|---------|-------------|-------|--------|
-| 01 | [Project Name](./projects/01_project-name/) | Short description of what this project shows | Power BI, Excel | ✅ Complete |
+| 01 | HR DB Dashboard (./projects/01_HR-DB-Dashboard/) | Short description of what this project shows | Power BI, Excel | ✅ Complete |
 | 02 | [Project Name](./projects/02_project-name/) | Short description | Power BI, SQL | 🚧 In progress |
 
 > More projects coming soon!
@@ -49,10 +49,11 @@ I'm an entry-level BI analyst passionate about turning raw data into meaningful 
 
 ## 🛠️ Skills Demonstrated
 
-- **Data Modeling** — Star schema design, relationships, calculated columns & measures (DAX)
-- **Dashboards & Reports** — Interactive visuals, slicers, drill-throughs, bookmarks
+- **Data Modeling** — One to Many designs, relationships, calculated columns & measures (DAX)
+- **Dashboards & Reports** — Interactive visuals, slicers, drill-throughs, bookmarks, pivot tables
 - **Data Transformation** — Power Query (M language), data cleaning, shaping
 - **DAX** — Measures, KPIs, time intelligence functions
+  
 
 ---
 
@@ -90,8 +91,8 @@ Each project folder follows this structure:
 
 Feel free to connect if you'd like to discuss any of these projects!
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
+- 💼 LinkedIn: https://www.linkedin.com/in/francisco-pastrian-323458290/
+- 📧 Email: pastrianfrancisco@gmail.com
 
 ---
 
