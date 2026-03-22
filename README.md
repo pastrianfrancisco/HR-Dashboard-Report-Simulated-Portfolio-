@@ -40,7 +40,7 @@ I'm an entry-level BI analyst passionate about turning raw data into meaningful 
 
 | # | Project | Description | Tools | Status |
 |---|---------|-------------|-------|--------|
-| 01 | HR DB Dashboard (./projects/01_HR-DB-Dashboard/) | Short description of what this project shows | Power BI, Excel | ✅ Complete |
+| 01 | [HR DB Dashboard](./projects/01_HR-DB-Dashboard/) | Short description of what this project shows | Power BI, Excel | ✅ Complete |
 | 02 | [Project Name](./projects/02_project-name/) | Short description | Power BI, SQL | 🚧 In progress |
 
 > More projects coming soon!
